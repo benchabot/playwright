@@ -52,7 +52,7 @@
     "progress": "^2.0.3",
     "proxy-from-env": "^1.1.0",
     "rimraf": "^3.0.2",
-    "ws": "^6.1.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@types/debug": "0.0.31",
